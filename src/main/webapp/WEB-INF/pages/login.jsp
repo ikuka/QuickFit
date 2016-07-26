@@ -47,8 +47,8 @@
         <!-- begin brand -->
         <div class="login-header">
             <div class="brand">
-                <span class="logo"></span> Color Admin
-                <small>responsive bootstrap 3 admin template</small>
+                <span class="logo"></span>QuickFit系统
+                <small>登录界面测试系统啊</small>
             </div>
             <div class="icon">
                 <i class="fa fa-sign-in"></i>
