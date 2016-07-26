@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QuickFit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="QuickFit.war">
+      <element id="artifact" artifact-name="QuickFit:war exploded" />
+    </root>
+  </artifact>
+</component>
